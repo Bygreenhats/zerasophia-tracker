@@ -1,4 +1,4 @@
-dostlar ayarlar kısmından zerasophia yazmanız gerekmekde yayıncı kısmına degılse calışmaz
+ZERASOPHİA için yapılmıştır
 istediginiz yayıncılarıda takıp edebılırsınız 
 herangı bır soruun olursa hephaestus_tr instagram
 
