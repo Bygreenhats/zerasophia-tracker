@@ -1,0 +1,2 @@
+requests>=2.31.0
+kicksdk-py[aio]>=0.2.0
